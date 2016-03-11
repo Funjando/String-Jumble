@@ -29,7 +29,7 @@ erehT era a wef seuqinhcet ro skcirt taht uoy yam dnif ydnah
 
 #Inputs
 sen=input("Please enter a string of text (the bigger the better): ")
-print('You entered "' + sen + '"')
+print('You entered "' + sen + '" ' + "Now jumble it: ")
 
 #FullReverse
 sen_dalt=(sen [::-1])
