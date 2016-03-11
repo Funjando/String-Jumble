@@ -1,6 +1,6 @@
 """
 stringjumble.py
-Author: <your name>
+Author: < name>
 Credit: <sources>
 
 Assignment:
@@ -31,11 +31,21 @@ sen=input("Please enter a string of text (the bigger the better): ")
 print('You entered "' + sen + '"')
 
 #FullReverse
-print(sen [::-1])
+sen_dalt=(sen [::-1])
+print(sen_dalt)
+
 
 #WordReverse
+sen_alt=sen.split(" ")
+sen_alt.reverse()
+print((" ").join(sen_alt))
+
 
 
 #LetterReverse
+sen_dalt_split=sen_dalt.split(" ")
+sen_dalt_split.reverse()
+print((" ").join(sen_dalt_split))
+
 
 
