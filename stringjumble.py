@@ -1,7 +1,8 @@
 """
 stringjumble.py
-Author: < name>
-Credit: <sources>
+Author: Funjando
+Credit: Russian who's name I cannot copy. Stack overflow.
+        Heavy influence from other threads
 
 Assignment:
 
